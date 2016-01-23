@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Xin chao cac ban. Toi la Duc. Rat mong
+=======
+Xin chao cac ban
+>>>>>>> parent of b232dd5... three commit
